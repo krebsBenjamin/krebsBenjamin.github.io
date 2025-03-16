@@ -23,3 +23,11 @@ Er du ny beboer i området er du velkommen til at læse vores velkomstbrev og ti
 
 # Årets arrangementer
 
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <div style="flex: 1 1 300px; text-align: center;">
+    <img src="/assets/aarshjul-lige-aar.png" alt="Årshjul 1" style="max-width: 100%; height: auto;" />
+  </div>
+  <div style="flex: 1 1 300px; text-align: center;">
+    <img src="/assets/aarshjul-ulige-aar.png" alt="Årshjul 2" style="max-width: 100%; height: auto;" />
+  </div>
+</div>
