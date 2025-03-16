@@ -1,0 +1,34 @@
+- name: Torben Pedersen
+  image: torben-pedersen.png
+  address: Gammel Viborgvej 45
+  role: ??
+
+- name: Benjamin Krebs
+  address: Stubmøllevej 5
+  image: benjamin-krebs.jpg
+  role: ??
+
+- name: Helle Petersen
+  address: Ellevej 6
+  image: helle-petersen.jpg 
+  role: ??
+
+- name: Anette Victoria Buus Thomsen
+  address: Plantagevej 26
+  image: anette-victoria-buus-thomsen.png 
+  role: ??
+
+- name: Martin Osberg Christensen
+  address: Plantagevej 22
+  image: martin-osberg-christensen.png 
+  role: ??
+
+- name: Patricia Connor
+  address: Plantagevej ??
+  image: patricia-connor.jpg
+  role: Suppleant
+
+- name: Arne Præstegaard
+  address: Plantagevej 3
+  image: placeholder.png
+  role: Revisor
