@@ -31,4 +31,11 @@ permalink: /bestyrelsen/
 .container {
   padding: 2px 16px;
 }
+
+/* Add this media query */
+@media (max-width: 600px) {
+  .card {
+    width: 100%;
+  }
+}
 </style>
