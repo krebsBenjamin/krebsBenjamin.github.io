@@ -38,12 +38,12 @@ Ejendommene med adresse til Gl. Viborgvej, der blev udstykket før tinglysning a
 Man besluttede i Ejerlauget ”Bøgemarken” på en generalforsamling, at søge sagkyndig bistand til at gennemgå de tinglyste deklarationer, og tinglyse moderniserede og nugældende bestemmelser. Dette arbejde blev udført i år 2013 og tinglyst den 22.01.2014 som påtegning på servitut tinglyst 14.05.1962 (ovennævnte servitut nr. 1).
 
 ### Bestemmelserne i påtegning lyst den 22.01.2014 
-[Bilag nr. 1](https://drive.google.com/file/d/1AaN3XW_ujc1U3rIzDrvqZzbb_7ys0Ttv/view?usp=drive_link) og [kortbilag til påtegningen](https://drive.google.com/file/d/1Ai-vK89thCMc0SjlidBA3AadXPreG-o3/view?usp=drive_link) suppleres nedenstående med bemærkninger, forklaringer og henvisninger til bilag.
+[Påtegningen](https://drive.google.com/file/d/1AaN3XW_ujc1U3rIzDrvqZzbb_7ys0Ttv/view?usp=drive_link) og [kortbilag til påtegningen](https://drive.google.com/file/d/1Ai-vK89thCMc0SjlidBA3AadXPreG-o3/view?usp=drive_link) suppleres nedenstående med bemærkninger, forklaringer og henvisninger til bilag.
 Bestemmelserne i påtegningen erstatter helt de i den oprindelige deklaration af 14.05.1962 anførte.
 
 ### Påtegningens paragraffer
 
-Bestemmelsernes fulde ordlyd fremgår af bilag nr. 1.
+Bestemmelsernes fulde ordlyd fremgår af [påtegningen](https://drive.google.com/file/d/1AaN3XW_ujc1U3rIzDrvqZzbb_7ys0Ttv/view?usp=drive_link).
 
 <b>§1 Grundene må ikke videreudstykkes</b>
 
@@ -51,13 +51,13 @@ Mindre skelændringer mellem grundene kan foretages. Bestyrelsen for Ejerlauget 
 
 <b>§2 Bestemmelser om bebyggelse, bebyggelsesplan, oversigt og byggelinier</b>
 
-Placering af husene skal ske i overensstemmelse med bebyggelsesplanen. De anførte oversigtarealer og byggelinier skal respekteres (Se [bilag 2](https://drive.google.com/file/d/1Ai-vK89thCMc0SjlidBA3AadXPreG-o3/view?usp=drive_link)).
+Placering af husene skal ske i overensstemmelse med bebyggelsesplanen. De anførte oversigtarealer og byggelinier skal respekteres (Se [kortbilag til påtegning](https://drive.google.com/file/d/1Ai-vK89thCMc0SjlidBA3AadXPreG-o3/view?usp=drive_link)).
 
 <b>§3 Kun én beboelsesejendom</b>
 
 Bygningshøjde, udseende tag og placering af tekniske anlæg. På hver ejendom må kun opføres 1 beboelsesejendom. Bygningers højde må ikke overstige 6,5 m. Tagflader skal fremstå med matte overflader. Der må ikke anvendes tagsten med en glans over 10. Anlæg til køling m.m. skal anbringes i umiddelbar tilknytning til ejendommens bygninger.
 
-<b>§4 Hække, låger, beplantning, renovationsbeholdre, tørrestativer. (Se [bilag nr. 3](https://drive.google.com/file/d/1AiK5sPL79z6XEhEmGXzJ637rBIRytWDO/view?usp=drive_link))</b>
+<b>§4 Hække, låger, beplantning, renovationsbeholdre, tørrestativer. (Se [principtegning](https://drive.google.com/file/d/1AiK5sPL79z6XEhEmGXzJ637rBIRytWDO/view?usp=drive_link))</b>
 
 I skel plantes bøgehække, som ikke må overstige 1,80 i højden.  Hvis man ønsker bøgehæk fra byggelinien og ud til vejskel og langs vej må hækkens højde ikke overstige 1,00 m. For at efterkomme Kr. Johansens (udstykkerens) ønske og ide med området anbefales, at der ikke plantes hæk langs vejen. I hække ud til fællesarealet kan etableres 1 låge med 1,80 m i højden og 1,00 m i bredden og med et ensartet udseende. Ikke tøjtørring på arealet mellem byggelinie og vejskel.  Renovationsbeholdre placeres bag byggelinie. Arealet mellem byggelinie og vej kan beplantes med græs, blomster, buske og fritstående træer.
 
@@ -67,7 +67,7 @@ På parcellerne må ikke drives virksomhed, der ved støv, støj, røg og lugt e
 
 <b>§6 Pligt til medlemskab af Ejerlauget ”Bøgemarken”</b>
 
-Ejerlauget ”Bøgemarken” varetager vedligeholdelse og renholdelse af fællesarealet. Der er medlemspligt for samtlige grundejere inden for den markerede grænse på [bilag 2](https://drive.google.com/file/d/1Ai-vK89thCMc0SjlidBA3AadXPreG-o3/view?usp=drive_link). Grundejere som grænser op mod fællesarealet pålægges at klippe bøgehækken på begge sider. Der er udarbejdet vedtægter for Ejerlauget ”Bøgemarken”, se [vedtægter](https://drive.google.com/file/d/19Uq8RvlRFmBK1Pbk6ZsRIMe0e10hWmp0/view?usp=drive_link). Ejerlauget drives i henhold til denne vedtægt og driften varetages af den til enhver tid siddende bestyrelse.
+Ejerlauget ”Bøgemarken” varetager vedligeholdelse og renholdelse af fællesarealet. Der er medlemspligt for samtlige grundejere inden for den markerede grænse på [kortbilag til påtegning](https://drive.google.com/file/d/1Ai-vK89thCMc0SjlidBA3AadXPreG-o3/view?usp=drive_link). Grundejere som grænser op mod fællesarealet pålægges at klippe bøgehækken på begge sider. Der er udarbejdet vedtægter for Ejerlauget ”Bøgemarken”, se [vedtægter](https://drive.google.com/file/d/19Uq8RvlRFmBK1Pbk6ZsRIMe0e10hWmp0/view?usp=drive_link). Ejerlauget drives i henhold til denne vedtægt og driften varetages af den til enhver tid siddende bestyrelse.
 
 <b>§7 Påtaleret angående de i påtegning tinglyst den 22.01.2014 nævnte bestemmelser</b>
 
