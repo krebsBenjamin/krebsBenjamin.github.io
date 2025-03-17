@@ -17,7 +17,7 @@ Er du ny beboer i området er du velkommen til at læse vores velkomstbrev og ti
   <img src="/assets/boegemarken%20-%20bebyggelsesplan.png" alt="Bebyggelsesplan" />
 </div>
 
-<div style="text-align: center; margin-top: 20px; margin-bottom: 50px; display: flex; justify-content: center; gap: 20px;">
+<div style="text-align: center; margin-top: 20px; margin-bottom: 50px; display: flex; justify-content: center; align-items: center; gap: 20px;">
     <a href="/assets/Velkomstbrev-2017.pdf" class="button" style="display: inline-block; padding: 15px 25px; font-size: 24px; color: white; background-color: #007BFF; text-align: center; text-decoration: none; border-radius: 5px;">Læs Velkomstbrev</a>
     <a href="https://www.facebook.com/groups/341869943607907" class="button" style="display: inline-block; padding: 15px 25px; font-size: 24px; color: white; background-color: #007BFF; text-align: center; text-decoration: none; border-radius: 5px;">Tilmeld Facebook gruppe</a>
 </div>
