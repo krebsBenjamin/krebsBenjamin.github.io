@@ -1,27 +1,27 @@
 - name: Torben Pedersen
   image: torben-pedersen.png
   address: Gammel Viborgvej 45
-  role: ??
+  role: Formand
 
 - name: Benjamin Krebs
   address: Stubmøllevej 5
   image: benjamin-krebs.jpg
-  role: ??
+  role: Kasserer
 
 - name: Helle Petersen
   address: Ellevej 6
   image: helle-petersen.jpg 
-  role: ??
+  role: Bestyrelsesmedlem
 
 - name: Anette Victoria Buus Thomsen
   address: Plantagevej 26
   image: anette-victoria-buus-thomsen.png 
-  role: ??
+  role: Bestyrelsesmedlem
 
 - name: Martin Osberg Christensen
   address: Plantagevej 22
   image: martin-osberg-christensen.png 
-  role: ??
+  role: Bestyrelsesmedlem
 
 - name: Patricia Connor
   address: Plantagevej ??
