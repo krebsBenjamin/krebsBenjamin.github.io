@@ -22,17 +22,5 @@ Er du ny beboer i området er du velkommen til at læse vores velkomstbrev og ti
     <a href="https://www.facebook.com/groups/341869943607907" class="button" style="display: inline-block; padding: 15px 25px; font-size: 24px; color: white; background-color: #007BFF; text-align: center; text-decoration: none; border-radius: 5px;">Tilmeld Facebook gruppe</a>
 </div>
 
-
-# Årets arrangementer
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0px;">
-  <div style="flex: 1 1 300px; text-align: center;">
-    <img src="/assets/aarshjul-lige-aar.png" alt="Årshjul 1" style="max-width: 100%; height: auto;" />
-  </div>
-  <div style="flex: 1 1 300px; text-align: center;">
-    <img src="/assets/aarshjul-ulige-aar.png" alt="Årshjul 2" style="max-width: 100%; height: auto;" />
-  </div>
-</div>
-
 <div style="margin-bottom: 100px">
 </div>
